@@ -1,3 +1,4 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eyasliu&show_icons=true&theme=vue" alt="Eyas's github stats" />
 ### Hello ~ 👋
 
 I'm Eyas.
@@ -17,3 +18,6 @@ I'm Eyas.
    - [vuex-proxy](https://www.npmjs.com/package/vuex-proxy) 我把 vuex 给进(mó)化(gǎi)了，终于可以在 vuex 放飞自我了
    - [gql-api-loader](https://www.npmjs.com/package/gql-api-loader) 嫌 Graphql 查询太难用了，搞了个插件，可以扔掉重重的 apollo 了
  * [Go Toolkit](https://github.com/go-eyas/toolkit) Golang 工具集，把通用的工具能封装的都封装了，心血之作
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=eyasliu&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
